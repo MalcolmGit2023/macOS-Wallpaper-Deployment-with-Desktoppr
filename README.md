@@ -3,6 +3,8 @@
 
 This repository documents the workflow used to deploy custom wallpapers to macOS using the **desktoppr** CLI and Jamf Pro, bundled via the **Packages** app so all components install together.
 
+View Wiki page - https://github.com/MalcolmGit2023/macOS-Wallpaper-Deployment-with-Desktoppr/wiki
+
 ## What I did
 
 1. **Downloaded desktoppr**
